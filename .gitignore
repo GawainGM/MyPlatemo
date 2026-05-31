@@ -1,0 +1,39 @@
+# MATLAB autosave and backup files
+*.asv
+*.m~
+*.autosave
+*.slx.autosave
+*.mdl.autosave
+
+# MATLAB generated/cache folders
+slprj/
+sccprj/
+codegen/
+.mw_cache/
+*.mex*
+
+# MATLAB runtime/log/temp outputs
+*.log
+*.tmp
+*.bak
+*.dat
+*.mat
+*.fig
+*.mlx
+*.mlappinstall
+
+# Simulink generated files
+*_ert_rtw/
+*_grt_rtw/
+*_rtw/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Python cache, if scripts are used nearby
+__pycache__/
+*.pyc
